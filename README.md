@@ -12,7 +12,7 @@ Currently I am working on projects involving **EEG data acquisition, OpenBCI pla
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white" />
 
 ## Frameworks Used
-<img src="https://img.shields.io/badge/-Numpy-013243?&logo=NumPy"/> <img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /> <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/-Numpy-013243?&logo=NumPy&style=for-the-badge&logo=Numpy&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /> <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
 
 ## Certifications Completed
 :one: Deep Learning Specialisation - deeplearning.ai<br>
