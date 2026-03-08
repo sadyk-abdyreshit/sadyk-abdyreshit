@@ -12,4 +12,4 @@ Currently I am working on projects involving **EEG data acquisition, OpenBCI pla
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white" />
 
 ## Frameworks Used
-<img src="https://img.shields.io/badge/-Numpy-013243?&logo=NumPy&style=for-the-badge&logo=Numpy&logoColor=white"/> <img src="[https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)"> <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/-Numpy-013243?&logo=NumPy&style=for-the-badge&logo=Numpy&logoColor=white"/> <img src="https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white"> <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
